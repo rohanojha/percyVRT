@@ -1,0 +1,3 @@
+testcase,url,xpath
+SeasonEpisode,https://www.max.com/shows/peacemaker-2022/a939d96b-7ffb-4481-96f6-472838d104ca,"//section[contains(@class,'episodes-parent')]"
+Java example,https://www.max.com/,""
