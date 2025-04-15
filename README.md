@@ -33,7 +33,7 @@ SeasonEpisode,https://www.max.com/shows/peacemaker-2022/a939d96b-7ffb-4481-96f6-
 Java example,https://www.max.com/,""
 ```
 
-- `module`: Name of the test (used for snapshot)
+- `testcase`: Name of the test (used for snapshot)
 - `xpath`: (Optional) XPath of the specific element to snapshot
 - `url`: URL of the page
 
@@ -108,7 +108,7 @@ This script uses Percy’s [Selenium SDK](https://docs.percy.io/docs/selenium). 
 
 ## 🙌 Author
 
-Made with 💻 by [Rohan Ojha](https://github.com/rohanojha)
+[Rohan Ojha](https://github.com/rohanojha)
 
 ---
 
