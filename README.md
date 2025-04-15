@@ -28,10 +28,9 @@ percyVRT/
 `percy.csv` should have the following headers:
 
 ```csv
-module,xpath,url
-Home Page,,https://example.com
-Header Banner,//div[@id='hero'],https://example.com
-Pricing Section,//section[@id='pricing'],https://example.com/pricing
+testcase,url,xpath
+SeasonEpisode,https://www.max.com/shows/peacemaker-2022/a939d96b-7ffb-4481-96f6-472838d104ca,"//section[contains(@class,'episodes-parent')]"
+Java example,https://www.max.com/,""
 ```
 
 - `module`: Name of the test (used for snapshot)
